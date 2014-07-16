@@ -12,7 +12,6 @@ int numOfElements(std::string);
 
 int main()
 {
-	//18 3C 7E 7E 18 18 18 18
 	std::string pic = "18 3C 7E 7E 18 18 18 18";
 	int picSize = numOfElements(pic);
 	std::string* strArr = new std::string[picSize];
