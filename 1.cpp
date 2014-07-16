@@ -1,3 +1,5 @@
+//output hex string as image
+
 #include <iostream>
 #include <string>
 #include <sstream>
